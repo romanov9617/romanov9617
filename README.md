@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer from Moscow, Russia</h3>
 
 
-- 🔭 I’m currently working on [Sber Gigachat Integration](https://github.com/romanov9617/hack_change)
+- 🔭 I’m currently working on [Sber Gigachat Integration](https://github.com/romanov9617/Sber_Gigachat)
 
 - 🌱 I’m currently learning **FastAPI, Docker, Kubernetes**
 
