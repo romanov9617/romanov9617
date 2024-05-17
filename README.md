@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danila Romanov</h1>
 <h3 align="center">Backend Developer from Moscow, Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanov9617" alt="romanov9617" /></a> </p>
 
 - 🔭 I’m currently working on [Sber Gigachat Integration](https://github.com/romanov9617/hack_change)
 
